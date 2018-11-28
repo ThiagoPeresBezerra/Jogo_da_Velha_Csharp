@@ -8,6 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/*
+Desenvolvido por Thiago Peres Bezerra
+Data: 13/08/2017
+*/
+
 namespace WindowsFormsJogoDaVelha
 {
     public partial class Form1_Jogo_da_Velha : Form

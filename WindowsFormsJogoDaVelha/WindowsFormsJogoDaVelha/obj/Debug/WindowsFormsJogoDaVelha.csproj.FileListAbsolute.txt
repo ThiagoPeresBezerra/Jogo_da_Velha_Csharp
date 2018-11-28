@@ -1,0 +1,19 @@
+c:\users\hp pro all in one tt\documents\visual studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\bin\Debug\WindowsFormsJogoDaVelha.exe.config
+c:\users\hp pro all in one tt\documents\visual studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\bin\Debug\WindowsFormsJogoDaVelha.exe
+c:\users\hp pro all in one tt\documents\visual studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\bin\Debug\WindowsFormsJogoDaVelha.pdb
+c:\users\hp pro all in one tt\documents\visual studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.csprojResolveAssemblyReference.cache
+c:\users\hp pro all in one tt\documents\visual studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.Properties.Resources.resources
+c:\users\hp pro all in one tt\documents\visual studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.csproj.GenerateResource.Cache
+c:\users\hp pro all in one tt\documents\visual studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.exe
+c:\users\hp pro all in one tt\documents\visual studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.pdb
+C:\Users\HP Pro All In One TT\documents\visual studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.Form1_Jogo_da_Velha.resources
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\bin\Debug\WindowsFormsJogoDaVelha.exe.config
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\bin\Debug\WindowsFormsJogoDaVelha.exe
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\bin\Debug\WindowsFormsJogoDaVelha.pdb
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.Form1_Jogo_da_Velha.resources
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.Properties.Resources.resources
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.csproj.GenerateResource.Cache
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.exe
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.pdb
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\WindowsFormsJogoDaVelha\WindowsFormsJogoDaVelha\obj\Debug\WindowsFormsJogoDaVelha.csproj.CoreCompileInputs.cache
